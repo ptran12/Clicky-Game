@@ -2,10 +2,11 @@ import React, { Component } from "react";
 import Card from "./components/Card";
 import Wrapper from "./components/Wrapper";
 import Header from "./components/Header";
-import "./App.css";
 import cards from "./cards.json";
+import "./App.css";
 
 class App extends Component {
+  // Setting this.state.cards to the cards json array
   state = {
     cards,
     score: 0,
@@ -42,11 +43,11 @@ class App extends Component {
       }
     });
   }
-  
+  // Map over this.state.cards and render a cardCard component for each card object
   render() {
     return (
       <Wrapper>
-        <Header score={this.state.score} highscore={this.state.highscore}>Clicky Game</Header>
+        <Header score={this.state.score} highscore={this.state.highscore}>NBA Clicky Game</Header>
         {this.state.cards.map(card => (
           <Card
             clickCount={this.clickCount}

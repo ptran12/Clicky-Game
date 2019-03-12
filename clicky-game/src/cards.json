@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "San Antonio Spurs",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/San_Antonio_Spurs.svg/1200px-San_Antonio_Spurs.svg.png",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Golden State Warriors",
+    "image": "https://usatftw.files.wordpress.com/2016/05/logo-golden-state-warriors.png?w=1000&h=600&crop=1",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Houston Rockets",
+    "image": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/28/Houston_Rockets.svg/1280px-Houston_Rockets.svg.png",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Los Angeles Lakers",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1200px-Los_Angeles_Lakers_logo.svg.png",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Oklahoma City Thunder",
+    "image": "https://cdn.freebiesupply.com/images/large/2x/oklahoma-city-thunder-logo-transparent.png",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Toronto Raptors",
+    "image": "https://cdn.freebiesupply.com/images/large/2x/toronto-raptors-logo-transparent.png",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Boston Celtics",
+    "image": "https://cdn.vectorlogosupply.com/logos/large/2x/boston-celtics-1-png-transparent-logo.png",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Philadelphia 76ers",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Philadelphia_76ers_logo.svg/1200px-Philadelphia_76ers_logo.svg.png",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Milwaukee Bucks",
+    "image": "https://clipart.info/images/ccovers/1503438190milwaukee-bucks-football-logo-png.png",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Denver Nuggets",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Denver_Nuggets.svg/1200px-Denver_Nuggets.svg.png",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Portland Trail Blazers",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Portland_Trail_Blazers_logo.svg/1200px-Portland_Trail_Blazers_logo.svg.png",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Utah Jazz",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utah_Jazz_logo_%282016%29.svg/1200px-Utah_Jazz_logo_%282016%29.svg.png",
+    "count": 0
+  }
+]
